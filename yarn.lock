@@ -1243,11 +1243,6 @@
     "@types/yargs" "^15.0.0"
     chalk "^3.0.0"
 
-"@react-native-community/checkbox@^0.4.1":
-  version "0.4.1"
-  resolved "https://registry.yarnpkg.com/@react-native-community/checkbox/-/checkbox-0.4.1.tgz#63a8682d7b60d205d539427c2c9bd8951c70673c"
-  integrity sha512-4sDmMj+yV4ti4+CSAOHx7To3g1nEZ7n8hpoIGuUHkJjp+CKOd2dXbdkhGPPFvOGlEeeSkaB6ayGxD4VqevnfOQ==
-
 "@react-native-community/cli-debugger-ui@^3.0.0":
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/@react-native-community/cli-debugger-ui/-/cli-debugger-ui-3.0.0.tgz#d01d08d1e5ddc1633d82c7d84d48fff07bd39416"
@@ -5908,10 +5903,10 @@ react-native-screens@~2.2.0:
   dependencies:
     debounce "^1.2.0"
 
-react-native-sketchbook@^0.0.2-alpha.10:
-  version "0.0.2-alpha.10"
-  resolved "https://registry.yarnpkg.com/react-native-sketchbook/-/react-native-sketchbook-0.0.2-alpha.10.tgz#07bdde12273f4fafed73c33bdac3e769a9562865"
-  integrity sha512-JaM/QYQxYohIJe7OzSSwjvW3RTQhKIvnc8VtRSu4s2qfpiwzhWC2goOjuXbHIPpSWp3h7UAgIEKKAhUqD3g51A==
+react-native-sketchbook@^0.0.2-alpha.12:
+  version "0.0.2-alpha.12"
+  resolved "https://registry.yarnpkg.com/react-native-sketchbook/-/react-native-sketchbook-0.0.2-alpha.12.tgz#184f1c03fb45a967c6629f94d650d294bc8a9a29"
+  integrity sha512-WrxW8W20GPZt+Wa0vH7OKoD9eZofNcOXPwb+KcaMs7x5TP0rBVhxH7U+at6mELxnn18cjsSAMGlzBpAUo2ZE7A==
 
 react-native-unimodules@~0.9.0:
   version "0.9.1"

@@ -7,9 +7,8 @@ import {
   View,
   TextInput,
 } from "react-native";
-import CheckBox from "@react-native-community/checkbox";
 import { todoListState } from "./RecoilStates/TodoListState";
-import { Margin } from "react-native-sketchbook";
+import { CheckBox, Margin } from "react-native-sketchbook";
 
 const styles = StyleSheet.create({
   container: {
@@ -73,7 +72,6 @@ export function TodoItem({ item }) {
         onChangeText={editItemText}
       />
       <CheckBox
-        type="checkbox"
         checked={item.isComplete}
         onValueChange={toggleItemCompletion}
       />
