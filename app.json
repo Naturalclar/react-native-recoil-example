@@ -1,0 +1,17 @@
+{
+  "name": "react-native-recoil-test",
+  "displayName": "react-native-recoil-test",
+  "expo": {
+    "name": "react-native-recoil-test",
+    "slug": "react-native-recoil-test",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
