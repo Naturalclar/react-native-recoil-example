@@ -61,3 +61,8 @@ buck-out/
 # Expo
 .expo/*
 web-build/
+
+# Android Generated Files
+android/**/.project
+android/**/.settings
+android/**/.classpath
