@@ -5,20 +5,25 @@
     "ios": "react-native run-ios",
     "web": "expo start --web",
     "start": "react-native start",
-    "test": "jest"
+    "test": "jest",
+    "pod": "npx pod-install"
   },
   "dependencies": {
+    "@react-native-community/checkbox": "^0.4.1",
     "expo": "~37.0.3",
     "expo-splash-screen": "^0.2.3",
     "expo-updates": "~0.2.0",
     "react": "~16.9.0",
     "react-dom": "~16.9.0",
     "react-native": "~0.61.5",
+    "react-native-appearance": "^0.3.4",
     "react-native-gesture-handler": "~1.6.0",
     "react-native-reanimated": "~1.7.0",
     "react-native-screens": "~2.2.0",
+    "react-native-sketchbook": "^0.0.2-alpha.10",
     "react-native-unimodules": "~0.9.0",
-    "react-native-web": "~0.11.7"
+    "react-native-web": "~0.11.7",
+    "recoil": "Naturalclar/recoil#react-native"
   },
   "devDependencies": {
     "@babel/core": "~7.9.0",
